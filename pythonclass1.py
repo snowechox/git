@@ -4,7 +4,7 @@
 # In[11]:
 
 
-name = "xue"
+name = "guo"
 
 
 # In[2]:
@@ -36,6 +36,7 @@ print ("my name is", name)
 
 print ("my name is", name, "my age is", age)
 
+data = 0708
 
 # In[16]:
 
